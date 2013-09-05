@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ed.io</string>
+    <string name="settings">Settings</string>
+    <string name="title">Title</string>
+    <string name="url">URL</string>
+    <string name="link">Short URL</string>
+    <string name="alias">Alias</string>
+    <string name="tags">Tags</string>
+    <string name="trim">Trim URL</string>
+    <string name="read">Read Later</string>
+</resources>
